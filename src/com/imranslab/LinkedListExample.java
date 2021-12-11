@@ -12,6 +12,7 @@ public class LinkedListExample {
         System.out.println(planetList);
 
         // last element poll kora
+        //P
         System.out.println("Polling the last element of the linked list");
         System.out.println(planetList.pollLast());
 
